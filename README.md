@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](![image](https://github.com/harshrathore24/harshrathore24/assets/102920822/7f1a0b12-2065-4310-a006-d9ec7de7bb99)
+)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Harsh Rathore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
