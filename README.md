@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/harshrathore24/harshrathore24/assets/102920822/7f1a0b12-2065-4310-a006-d9ec7de7bb99)
+[![MasterHead](![image]([https://github.com/harshrathore24/harshrathore24/assets/102920822/7f1a0b12-2065-4310-a006-d9ec7de7bb99](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1704240000&semt=sph))
 )](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Harsh Rathore</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
