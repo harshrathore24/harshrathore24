@@ -1,13 +1,20 @@
 [![MasterHead](![image]([https://github.com/harshrathore24/harshrathore24/assets/102920822/7f1a0b12-2065-4310-a006-d9ec7de7bb99](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1704240000&semt=sph))
 )](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Harsh Rathore</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">"Welcome to my GitHub! I am a dedicated backend developer with a fervor for creating efficient and scalable solutions. My journey also includes a deep dive into the realm of no-code automation, where I leverage tools to streamline processes."<br> Feel free to explore my repositories and connect with me!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrathore24&label=Profile%20views&color=0e75b6&style=flat" alt="harshrathore24" /> </p>
 
+- 🔭 I’m currently working on **Making projects on Web Apps (MERN Stack)**
+
+- 🌱 I’m currently learning **AWS cloud computing**
+
+- 📫 How to reach me **rathoreharsh304@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-rathore-a07534211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-rathore-a07534211/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
